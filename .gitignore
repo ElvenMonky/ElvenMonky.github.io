@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+*.suo
+/.vs/slnx.sqlite
+/.vs/config/applicationhost.config
+/.vs/ElvenMonky.github.io/v15
